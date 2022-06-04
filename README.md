@@ -1,6 +1,9 @@
-# AI_Car
+# Brain AI Car 프로젝트
 
-https://makecode.microbit.org/_CP1Pt0aibC1d
+1. Brain AI Car 모터 테스트
+   본격적인 프로젝트 개발에 앞서 자동차가 정상적으로 작동하는지를 테스트 하는 코드입니다.<br>  
+   https://makecode.microbit.org/_CP1Pt0aibC1d
+   
+2. 
 
 
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_CP1Pt0aibC1d" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
